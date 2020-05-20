@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Server>
+    <Service>
+        <Connector port="8080"/>
+        <Engine>
+            <Host name="localhost" appBase="C:/Users/zwq/webapps">
+            </Host>
+        </Engine>
+    </Service>
+</Server>
