@@ -43,3 +43,13 @@ tomcat是由两大组件组成的一个http服务器
       * Wrapper：表示一个Servlet，Wrapper作为容器中的最底层，不能包含子容器
 
         上面组件的配置体现在**conf/server.xml**中
+
+## MiniCat 访问路径
+
+**http:localhost:8080/demo1/MyServlet**   **http:localhost:8080/demo1/index.html**
+
+**http:localhost:8080/demo2/MyServlet**  **http:localhost:8080/demo2/index.html**
+
+**http:localhost:8080/demo3/MyServlet**  **http:localhost:8080/demo3/index.html**
+
+文件放置**C:/Users/zwq/webapps**下
